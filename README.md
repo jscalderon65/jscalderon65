@@ -6,7 +6,9 @@
 🎓 &nbsp; Studying Computer and systems engineering at Catholic University of Colombia.\
 ✍ &nbsp; Learning more about web and mobile development and computer science.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br/>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,6 +29,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
