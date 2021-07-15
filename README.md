@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 📃 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer and systems engineering at Catholic University of Colombia.
-- ✍ &nbsp; Learning more about web and mobile development and computer science.
+💡 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
+🎓 &nbsp; Studying Computer and systems engineering at Catholic University of Colombia.\
+✍ &nbsp; Learning more about web and mobile development and computer science.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
