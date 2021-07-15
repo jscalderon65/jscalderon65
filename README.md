@@ -6,8 +6,6 @@
 - 🎓 &nbsp; Studying Computer and systems engineering at Catholic University of Colombia.
 - ✍ &nbsp; Learning more about web and mobile development and computer science.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
