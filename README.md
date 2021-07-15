@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer and systems engineering at Catholic University of Colombia.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - ✍️ &nbsp; Learning more about web and mobile development and computer science.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -39,8 +38,6 @@
 
 <p align="center">
 <a href="jscalderon65.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Website-www.jscalderon65.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sebasti%C3%A1n-calderon-134354204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sebasti%C3%A1n-calderon-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sebastian%20Calderon-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jhonnseca0599@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jhonnseca0599@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/jscalderon65)
