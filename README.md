@@ -34,8 +34,8 @@
 <br/>
 
 <a style="widht:100vw" href="https://github.com/jscalderon65">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jscalderon65&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscalderon65&theme=tokyonight&layout=compact" />
+  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api?username=jscalderon65&theme=tokyonight&show_icons=true" />
+  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscalderon65&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
