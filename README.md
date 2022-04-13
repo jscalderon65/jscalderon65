@@ -4,7 +4,7 @@
 
 💡 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
 🎓 &nbsp; Studying Computer and systems engineering at Catholic University of Colombia.\
-✍ &nbsp; Learning more about web and mobile development and computer science.
+✍ &nbsp; Learning more about web development and computer science.
 
 <br/>
 
