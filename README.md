@@ -2,9 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🎓 &nbsp; Computer and systems engineer from the Catholic University of Colombia.\
-💡 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
-✍ &nbsp; Learning more about web development and computer science.
+🎓 &nbsp; Computer and systems engineer from the Universidad Católica de Colombia.\
+📚 &nbsp; Currently pursuing a Master's in Software Engineering at Universidad de los Andes.\
+💡 &nbsp; Passionate about exploring new technologies and developing software solutions.\
+✍ &nbsp; Continuously learning in the field of software engineering.
 
 <br/>
 
