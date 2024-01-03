@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Sebastian.</h2>
 
+<br/>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 🎓 &nbsp; Computer and systems engineer from the Universidad Católica de Colombia.\
@@ -72,6 +74,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jscalderon65&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<br/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
